@@ -4,6 +4,8 @@ Proyecto de Machine Learning que predice la altura o el peso de una persona con 
 
 Tecnologías Utilizadas
 
+Lenguaje: Python
+
 Pandas: Manipulación y limpieza de datos.
 
 Seaborn: Visualización de datos.
